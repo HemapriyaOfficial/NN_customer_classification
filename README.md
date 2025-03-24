@@ -108,8 +108,6 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 
 ![image](https://github.com/user-attachments/assets/902e6f4d-e3be-46ac-9ac7-01db3942443e)
 
-
-
 ### New Sample Data Prediction
 
 ![image](https://github.com/user-attachments/assets/a450825e-6701-42ee-a0d8-e92eb206a06b)
