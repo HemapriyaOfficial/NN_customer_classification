@@ -94,25 +94,25 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 
 
 ## Dataset Information
-
-Include screenshot of the dataset
+![image](https://github.com/user-attachments/assets/15b53afe-a0f7-4398-b05f-ef71ef6eb3e7)
 
 ## OUTPUT
 
-
-
 ### Confusion Matrix
 
-Include confusion matrix here
+![image](https://github.com/user-attachments/assets/de9f584b-abdb-49cb-8e6f-06142d7e4cfb)
+
 
 ### Classification Report
 
-Include Classification Report here
+![image](https://github.com/user-attachments/assets/902e6f4d-e3be-46ac-9ac7-01db3942443e)
+
 
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+![image](https://github.com/user-attachments/assets/a450825e-6701-42ee-a0d8-e92eb206a06b)
+
 
 ## RESULT
 Thus a neural network classification model for the given dataset is executed successfully.
