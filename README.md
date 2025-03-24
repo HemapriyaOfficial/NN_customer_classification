@@ -100,18 +100,13 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 ## OUTPUT
 
 ### Confusion Matrix
-
 ![image](https://github.com/user-attachments/assets/de9f584b-abdb-49cb-8e6f-06142d7e4cfb)
-
-
 ### Classification Report
 
 ![image](https://github.com/user-attachments/assets/902e6f4d-e3be-46ac-9ac7-01db3942443e)
 
 ### New Sample Data Prediction
-
 ![image](https://github.com/user-attachments/assets/a450825e-6701-42ee-a0d8-e92eb206a06b)
-
 
 ## RESULT
 Thus a neural network classification model for the given dataset is executed successfully.
